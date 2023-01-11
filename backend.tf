@@ -5,7 +5,7 @@ terraform {
     organization = "test-abhishekpradhan-com"
 
     workspaces {
-      name = "fake-web-services"
+      name = "tfc-fws-demo"
     }
   }
 
