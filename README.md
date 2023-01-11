@@ -38,4 +38,4 @@ cd tfc-getting-started
 
 Welcome to Terraform Cloud!
 
-Editing this file to check autorun from TFC
+Editing this file to check autorun from TFC 1
